@@ -1,3 +1,4 @@
+# origin source: [connectivity-0.4.3+6](https://github.com/flutter/plugins/tree/master/packages/connectivity)  . 
 # connectivity
 
 This plugin allows Flutter apps to discover network connectivity and configure
